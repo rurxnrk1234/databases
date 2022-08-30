@@ -3,9 +3,9 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": 0,
-    "scrollLeft": 0,
-    "zoomLevel": 0.9,
+    "scrollTop": -21.6,
+    "scrollLeft": -87.19999999999996,
+    "zoomLevel": 1,
     "show": {
       "tableComment": true,
       "columnComment": true,
@@ -41,7 +41,39 @@
     "pluginSerializationMap": {}
   },
   "table": {
-    "tables": [],
+    "tables": [
+      {
+        "name": "temp",
+        "comment": "",
+        "columns": [],
+        "ui": {
+          "active": false,
+          "left": 39.1101,
+          "top": 65.3329,
+          "zIndex": 20,
+          "widthName": 60,
+          "widthComment": 60,
+          "color": "#FFF8F8"
+        },
+        "visible": true,
+        "id": "26bfc062-ab82-453a-b8d1-9715d20109f6"
+      },
+      {
+        "name": "",
+        "comment": "",
+        "columns": [],
+        "ui": {
+          "active": false,
+          "left": 66.7556,
+          "top": 180.2674,
+          "zIndex": 16,
+          "widthName": 60,
+          "widthComment": 60
+        },
+        "visible": true,
+        "id": "46698b6e-011a-4e35-b3ba-405ece32285f"
+      }
+    ],
     "indexes": []
   },
   "memo": {
