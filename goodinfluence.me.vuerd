@@ -3,8 +3,8 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": -160.8000000000001,
-    "scrollLeft": -131.2,
+    "scrollTop": -213.60000000000034,
+    "scrollLeft": -291.19999999999965,
     "zoomLevel": 0.8,
     "show": {
       "tableComment": true,
@@ -97,7 +97,7 @@
           "active": false,
           "left": 241.6,
           "top": 36,
-          "zIndex": 241,
+          "zIndex": 4,
           "widthName": 71.5703125,
           "widthComment": 60
         },
@@ -182,7 +182,7 @@
           "active": false,
           "left": 20.8,
           "top": 244,
-          "zIndex": 218,
+          "zIndex": 1,
           "widthName": 60,
           "widthComment": 60
         },
@@ -244,7 +244,7 @@
           "active": false,
           "left": 18.2221,
           "top": 538.1337,
-          "zIndex": 221,
+          "zIndex": 2,
           "widthName": 60,
           "widthComment": 60
         },
@@ -306,7 +306,7 @@
           "active": false,
           "left": 769.8667,
           "top": 9.1546,
-          "zIndex": 222,
+          "zIndex": 3,
           "widthName": 60,
           "widthComment": 60
         },
@@ -391,7 +391,7 @@
           "active": false,
           "left": 394.2666,
           "top": 531.4228,
-          "zIndex": 264,
+          "zIndex": 5,
           "widthName": 71.5703125,
           "widthComment": 60
         },
@@ -447,13 +447,36 @@
               "widthDefault": 60
             },
             "id": "03bcf1cd-26b3-40c4-8a71-73db1132816b"
+          },
+          {
+            "name": "",
+            "comment": "",
+            "dataType": "",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": true,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": true,
+              "fk": false,
+              "pfk": false,
+              "widthName": 60,
+              "widthComment": 60,
+              "widthDataType": 60,
+              "widthDefault": 60
+            },
+            "id": "22dab2ba-db9c-42e1-9f44-7550bbd60374"
           }
         ],
         "ui": {
           "active": false,
           "left": 764.8442,
           "top": 146.3553,
-          "zIndex": 257,
+          "zIndex": 6,
           "widthName": 84.5703125,
           "widthComment": 60
         },
@@ -509,13 +532,36 @@
               "widthDefault": 60
             },
             "id": "88c47354-315c-4866-b087-bff5ad591a20"
+          },
+          {
+            "name": "",
+            "comment": "",
+            "dataType": "",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 60,
+              "widthComment": 60,
+              "widthDataType": 60,
+              "widthDefault": 60
+            },
+            "id": "79682a04-30af-459a-bcb1-884cae82ba0a"
           }
         ],
         "ui": {
           "active": false,
           "left": 946.4,
           "top": 499.2,
-          "zIndex": 262,
+          "zIndex": 7,
           "widthName": 71.5703125,
           "widthComment": 60
         },
@@ -601,7 +647,7 @@
             "03bcf1cd-26b3-40c4-8a71-73db1132816b"
           ],
           "x": 764.8442,
-          "y": 201.3553,
+          "y": 211.6053,
           "direction": "left"
         },
         "constraintName": "fk_사용자 정보_to_사업장 연락처",
@@ -670,7 +716,7 @@
             "88c47354-315c-4866-b087-bff5ad591a20"
           ],
           "x": 946.4,
-          "y": 554.2,
+          "y": 564.45,
           "direction": "left"
         },
         "end": {
